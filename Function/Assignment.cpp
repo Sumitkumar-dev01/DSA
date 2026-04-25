@@ -27,7 +27,7 @@ int main(){
    cout<<"Enter your radius";
    cin>>radius;
    cout<<area(radius);
-
-
 return 0;
 }
+
+
